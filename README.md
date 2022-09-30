@@ -6,11 +6,11 @@ I'm Ana-Marija Drašković.
 
 ## About me
 
-I'm an aspiring front-end developer. I started learning on the Scrimba platform back in the 2020 and currently I'm working on my projects.
+I'm an aspiring front-end developer. I started learning on the [Scrimba](https://scrimba.com/learn/frontend) platform back in 2020 and currently I'm working on my projects.
 
 ## My experience
 
-### Programming languages I used in my projects:
+### Programming languages used in my projects:
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,11 +25,14 @@ I'm an aspiring front-end developer. I started learning on the Scrimba platform 
 ### Tools I use:
 <p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=orange">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ## My projects
 
-Accomodation webpage | Quiz game
+Accommodation webpage | Quiz game
 ------------ | ------------
 [<img width="282" src=./katarica.png>](https://katarica-apartmani.web.app/) | [<img width="282" src=./quizzical.png>](https://quizzical-3fb03.web.app )
 HTML5, CSS3, JavaScript | HTML5, CSS3, React, API
