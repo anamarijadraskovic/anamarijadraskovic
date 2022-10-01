@@ -1,8 +1,8 @@
-![Header](header_img.png)
+![Header](images/header_img.png)
 
 Hi there ✋!
 
-I'm Ana-Marija Drašković.
+I'm Ana-Marija.
 
 ## About me
 
@@ -34,7 +34,7 @@ I'm an aspiring front-end developer. I started learning on the [Scrimba](https:/
 
 Accommodation webpage | Quiz game
 ------------ | ------------
-[<img width="282" src=./katarica.png>](https://katarica-apartmani.web.app/) | [<img width="282" src=./quizzical.png>](https://quizzical-3fb03.web.app )
+[<img width="282" src=images/katarica.png>](https://katarica-apartmani.web.app/) | [<img width="282" src=images/quizzical.png>](https://quizzical-3fb03.web.app )
 HTML5, CSS3, JavaScript | HTML5, CSS3, React, API
 [📖 Github repo](https://github.com/anamarijadraskovic/katarica_apartmani_draft) | [📖 Github repo](https://github.com/anamarijadraskovic/quizz)
 
@@ -44,12 +44,3 @@ HTML5, CSS3, JavaScript | HTML5, CSS3, React, API
 
 ### PS: What's with the header? 🤔
 I made it using AI to represent me with my hobbies, cycling and watching birds 😊
-
-- - - 
-
-<p align="center">
-© 2022 Ana-Marija Drašković, all rights reserved.
-
-</p>
-
-
