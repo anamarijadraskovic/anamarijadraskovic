@@ -35,15 +35,9 @@ I am a front-end developer who embarked on my coding journey in 2020 through the
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> </p>
-
-## My projects
-
-Accommodation webpage | Quiz game
------------- | ------------
-[<img width="282" src=images/katarica.png>](https://katarica-apartmani.web.app/) | [<img width="282" src=images/quizzical.png>](https://quizzical-3fb03.web.app )
-HTML5, CSS3, JavaScript | HTML5, CSS3, React, API
-[📖 Github repo](https://github.com/anamarijadraskovic/katarica_apartmani_draft) | [📖 Github repo](https://github.com/anamarijadraskovic/quizz)
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=fff&style=for-the-badge" />
+</p>
 
 ## Contact me:
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/anamarijadraskovic) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-marija-dra%C5%A1kovi%C4%87-0852991b9/)
