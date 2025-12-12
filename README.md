@@ -1,5 +1,3 @@
-![Header](images/header_img.png)
-
 Hi there ✋!
 
 I'm Ana-Marija.
@@ -12,8 +10,8 @@ I am a front-end developer who embarked on my coding journey in 2020 through the
 
 ### Programming languages
 <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -42,6 +40,3 @@ I am a front-end developer who embarked on my coding journey in 2020 through the
 ## Contact me:
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/anamarijadraskovic) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-marija-dra%C5%A1kovi%C4%87-0852991b9/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ana.marija.draskovic007@gmail.com)
-
-### PS: What's with the header? 🤔
-I made it using AI to represent me with my hobbies, cycling and watching birds 😊
